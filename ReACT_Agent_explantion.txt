@@ -1,0 +1,50 @@
+What is a ReACT Agent?
+    ReACT stands for Reasoning and Acting. It's a type of intelligent agent that:
+    Reasons about what it knows (uses thinking to solve problems).
+    Acts to get more information if needed (like doing a Google search or using a calculator).
+    Combines both to solve tasks step-by-step.
+
+This is useful when the agent doesn’t have all the answers right away, and needs to do something to get them (like a human might look something up or do some math).
+
+🧠 How is it different from normal AI chat?
+        A regular chatbot gives you a direct answer.
+        A ReACT agent can think out loud and use tools (like search engines, calculators, or databases) to get better answers.
+
+🧪 Simple Example: ReACT Agent Solving a Question
+    Task:
+        "What is the capital of the country where the Eiffel Tower is located?"
+
+    Step-by-step by a ReACT Agent:
+        Step 1: Thought (Reasoning):
+        "The Eiffel Tower is in France. I need to find the capital of France."
+
+        Step 2: Action:
+        "Use a knowledge tool to look up: Capital of France."
+
+        Step 3: Observation (Result):
+        "The capital of France is Paris."
+
+        Step 4: Final Answer:
+        "Paris."
+
+🔧 Example With a Tool (like Calculator)
+        Task:
+        "What is the square root of the sum of 49 and 51?"
+
+        Step 1: Thought:
+        "49 + 51 = 100. Then, I need the square root of 100."
+
+        Step 2: Action:
+        "Use calculator to compute square root of 100."
+
+        Step 3: Observation:
+        "Square root of 100 is 10."
+
+        Step 4: Final Answer:
+        "10."
+
+🧠 Summary
+    A ReACT Agent:
+        Thinks step-by-step.
+        Uses tools when needed.
+        Solves problems like a smart assistant with both brain and hands.
