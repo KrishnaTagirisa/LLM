@@ -8,5 +8,12 @@ Create a conda environment after opening the repository in VSCODE
 
     source activate ./env
 
-
-pip install -r requirements.txt
+    git init
+    git config —global user.name “name”
+    git config —global user.email “email”
+    git remote add origin URL
+    git add .
+    git commit -m “comment”
+    git push origin master
+    
+    pip install -r requirements.txt
